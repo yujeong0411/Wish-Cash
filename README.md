@@ -9,7 +9,14 @@
 
 
 # 📆 일정 및 진행상황 관리
-https://www.notion.so/Team-Wish-Cash-124abb529d0080329ac4d3f00bc19125
+- 진행 기간 : 2024.11.18(월) ~ 2024.11.26(화)
+- https://www.notion.so/Team-Wish-Cash-124abb529d0080329ac4d3f00bc19125
+
+# 💻 Tech Stack
+### Language
+`python` 
+
+
 
 # ✏️ 설계
 ### 디자인 목업
